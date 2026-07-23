@@ -1,44 +1,58 @@
-# 👋 Hi, I'm **Ali Hamza**
-## 💼 MERN Stack Developer | Full Stack Developer
+# Hi, I'm Ali Hamza
 
-> *Building modern, scalable web apps using Next.js, React.js, Node.js & modern tech.*
+**Full Stack Developer** in Lahore, Pakistan — building production web apps with **React, Next.js, Node.js, AWS, and blockchain**.
 
-📍 **Location:** Pakistan
-
----
-
-## 🚀 About Me
-
-I'm an experienced **Full Stack Developer** specializing in the **MERN Stack** and modern web technologies. I've worked with many organizations globally, delivering scalable software solutions and building modern applications. I'm passionate about creating **scalable software** and **blockchain integrations**, including wallet connections and smart contract interactions.
-
-💡 **What I Do:**
-
-- Design and develop modern full-stack web applications
-- Build scalable backend systems and REST APIs
-- Create responsive, intuitive user interfaces
-- Implement blockchain integrations (wallet connections, smart contracts)
-- Collaborate with clients and teams worldwide
-- Mentor junior developers and share knowledge
+[![Portfolio](https://img.shields.io/badge/Portfolio-alihamza--fawn.vercel.app-0a0f1a?style=flat&logo=vercel)](https://alihamza-fawn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hamza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alihamza-fullstack-developer)
+[![Email](https://img.shields.io/badge/Email-hamzasarwer9%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:hamzasarwer9@gmail.com)
 
 ---
 
-## 🛠️ **Skills & Technologies**
+## About
 
-### **Frontend Development**
-- **Frameworks/Libraries:** Next.js, React.js
-- **Styling:** Tailwind CSS, Bootstrap, MUI (Material-UI), CSS3
-- **Languages:** JavaScript, TypeScript, HTML5
+I ship full-stack products end to end: React/Next.js frontends, Node.js REST APIs, AWS serverless, and Web3 integrations.
 
-### **Backend Development**
-- **Runtime:** Node.js
-- **Frameworks:** Express.js
-- **Languages:** JavaScript, TypeScript
+**3+ years** working with startups and product teams on:
 
-### **Databases**
-- MongoDB
-- PostgreSQL
+- MERN / Next.js applications
+- REST APIs and background workers
+- AWS Lambda, DynamoDB, RDS, Terraform
+- Blockchain indexing, wallets, and Solidity integrations
 
-### **DevOps & Tools**
-- Docker
-- Linux
-- Git & GitHub
+Open to **full-time** and **contract** remote roles.
+
+---
+
+## Featured work
+
+| Project | What I built | Stack |
+|---------|----------------|-------|
+| **Verana Indexer** | Blockchain crawler/indexer, 10k+ blocks, ~90% fewer direct RPC reads | Node.js, Moleculer, BullMQ, PostgreSQL, Redis, Docker |
+| **HealOps** | Multi-tenant healthcare + e-commerce on AWS serverless | Lambda, DynamoDB, RDS, Terraform |
+| **UniLabs** | DeFi web app with wallet flows and on-chain reads | Next.js, Solidity, Ethers.js |
+| **Senzi** | Dropshipping platform, 5k+ SKUs, supplier API automation | Next.js, Node.js, MongoDB |
+| **Portfolio** | Personal site with SEO, admin CMS, analytics | Next.js 16, TypeScript, Tailwind |
+
+Live portfolio: [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)
+
+---
+
+## Tech stack
+
+**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS · Redux  
+**Backend:** Node.js · Express.js · REST APIs · GraphQL · WebSockets  
+**Data:** MongoDB · PostgreSQL · Redis  
+**Cloud:** AWS (Lambda, API Gateway, DynamoDB, RDS) · Docker · Terraform · CI/CD  
+**Web3:** Solidity · Ethers.js · Blockchain indexing
+
+---
+
+## Links
+
+- Portfolio: https://alihamza-fawn.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/alihamza-fullstack-developer
+- Email: hamzasarwer9@gmail.com
+
+---
+
+Thanks for visiting — feel free to reach out about roles or projects.
