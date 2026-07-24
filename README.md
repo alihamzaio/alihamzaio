@@ -21,7 +21,3 @@ Open to remote full-time and contract roles.
 ## Stack
 
 React, Next.js, TypeScript, Tailwind, Redux, Node.js, Express, GraphQL, MongoDB, PostgreSQL, Redis, AWS, Docker, Terraform, Solidity, Ethers.js
-
-## Contact
-
-hamzasarwer9@gmail.com
