@@ -1,10 +1,10 @@
 # Hi, I'm Ali Hamza
 
-Full Stack Developer in Lahore, Pakistan. I build web apps with React, Next.js, Node.js, and AWS. I also work on Web3 when the product needs it.
+Full Stack Developer in Lahore, Pakistan (UTC+5). 3+ years building web apps with React, Next.js, Node.js, and AWS. I also work on Web3 when the product needs it.
 
-Open to remote full-time and contract roles.
+Open to remote full-time and contract roles worldwide.
 
-[Portfolio](https://alihamza-fawn.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/alihamza-fullstack-developer) | [Email](mailto:hamzasarwer9@gmail.com)
+[Portfolio](https://alihamza-fawn.vercel.app/) | [Resume](https://alihamza-fawn.vercel.app/api/resume/download) | [LinkedIn](https://www.linkedin.com/in/alihamza-fullstack-developer) | [Email](mailto:hamzasarwer9@gmail.com)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/alihamzaio/alihamzaio/main/assets/dev-terminal.png" alt="Ali Hamza Full Stack Developer terminal" width="860" />
@@ -20,8 +20,6 @@ Open to remote full-time and contract roles.
 | Blockchain indexing | Crawl blocks, cut down direct RPC load | Node.js, Moleculer, PostgreSQL, Redis, Docker |
 | DeFi / wallet apps | Wallet connect, on-chain reads, Solidity hooks | Next.js, Ethers.js, Solidity |
 | Commerce platforms | Catalogs, supplier sync, order flows at scale | Next.js, Node.js, MongoDB |
-
-Live work and case studies: [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)
 
 ## Stack
 
