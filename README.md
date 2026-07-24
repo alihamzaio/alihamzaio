@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hamza
 
-Full Stack Developer in Lahore, Pakistan (UTC+5). 3+ years building web apps with React, Next.js, Node.js, and AWS. I also work on Web3 when the product needs it.
+Full Stack Developer in Lahore, Pakistan. 3+ years building web apps with React, Next.js, Node.js, and AWS. I also work on Web3 when the product needs it.
 
 Open to remote full-time and contract roles worldwide.
 
