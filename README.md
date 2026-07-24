@@ -1,6 +1,6 @@
 # Hi, I'm Ali Hamza
 
-Full Stack Developer in Lahore, Pakistan. 3+ years building web apps with React, Next.js, Node.js, and AWS. I also work on Web3 when the product needs it.
+Full Stack Developer in Lahore, Pakistan. 3+ years building web apps with React, Next.js, Node.js, and AWS. I also do Web3 when a product needs it.
 
 Open to remote full-time and contract roles worldwide.
 
@@ -12,14 +12,12 @@ Open to remote full-time and contract roles worldwide.
 
 ## What I build
 
-| Area | How I approach it | Stack |
-| --- | --- | --- |
-| Full stack web apps | Frontend + API + deploy as one product | Next.js, React, Node.js, TypeScript |
-| REST APIs and workers | Auth, CRUD, queues, and background jobs | Express, BullMQ, Redis, MongoDB, PostgreSQL |
-| AWS serverless | Multi-tenant backends with infra as code | Lambda, API Gateway, DynamoDB, RDS, Terraform |
-| Blockchain indexing | Crawl blocks, cut down direct RPC load | Node.js, Moleculer, PostgreSQL, Redis, Docker |
-| DeFi / wallet apps | Wallet connect, on-chain reads, Solidity hooks | Next.js, Ethers.js, Solidity |
-| Commerce platforms | Catalogs, supplier sync, order flows at scale | Next.js, Node.js, MongoDB |
+- **Full stack web apps** - UI, API, and deploy as one product
+- **REST APIs and workers** - auth, CRUD, queues, background jobs
+- **AWS serverless** - multi-tenant backends with Terraform
+- **Blockchain indexing** - crawl blocks and cut direct RPC load
+- **DeFi / wallet apps** - wallet connect and on-chain reads
+- **Commerce platforms** - catalogs, supplier sync, order flows
 
 ## Stack
 
