@@ -6,7 +6,9 @@ Open to remote full-time and contract roles.
 
 [Portfolio](https://alihamza-fawn.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/alihamza-fullstack-developer) | [Email](mailto:hamzasarwer9@gmail.com)
 
-![Terminal](./assets/dev-terminal.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alihamzaio/alihamzaio/main/assets/dev-terminal.png" alt="Ali Hamza Full Stack Developer terminal" width="860" />
+</p>
 
 ## Projects
 
