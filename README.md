@@ -1,58 +1,98 @@
-# Hi, I'm Ali Hamza
+<div align="center">
 
-**Full Stack Developer** in Lahore, Pakistan — building production web apps with **React, Next.js, Node.js, AWS, and blockchain**.
+# Ali Hamza
+### Full Stack Developer in Lahore, Pakistan
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-alihamza--fawn.vercel.app-0a0f1a?style=flat&logo=vercel)](https://alihamza-fawn.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Hamza-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/alihamza-fullstack-developer)
-[![Email](https://img.shields.io/badge/Email-hamzasarwer9%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:hamzasarwer9@gmail.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&height=46&lines=Building+production+web+apps;MERN+%7C+Next.js+%7C+Node.js+%7C+AWS;REST+APIs+%C2%B7+Serverless+%C2%B7+Web3;Open+to+remote+full-time+%26+contract)](https://alihamza-fawn.vercel.app/)
 
----
+<img src="./assets/dev-terminal.svg" alt="Ali Hamza Full Stack Developer — animated terminal showing React Next.js Node.js AWS Web3 stack" width="860" />
 
-## About
+<br/>
 
-I ship full-stack products end to end: React/Next.js frontends, Node.js REST APIs, AWS serverless, and Web3 integrations.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://alihamza-fawn.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alihamza-fullstack-developer)
+[![Email](https://img.shields.io/badge/Email-hamzasarwer9%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamzasarwer9@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-alihamzaio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alihamzaio)
 
-**3+ years** working with startups and product teams on:
-
-- MERN / Next.js applications
-- REST APIs and background workers
-- AWS Lambda, DynamoDB, RDS, Terraform
-- Blockchain indexing, wallets, and Solidity integrations
-
-Open to **full-time** and **contract** remote roles.
+</div>
 
 ---
 
-## Featured work
+## Who I am
 
-| Project | What I built | Stack |
-|---------|----------------|-------|
-| **Verana Indexer** | Blockchain crawler/indexer, 10k+ blocks, ~90% fewer direct RPC reads | Node.js, Moleculer, BullMQ, PostgreSQL, Redis, Docker |
-| **HealOps** | Multi-tenant healthcare + e-commerce on AWS serverless | Lambda, DynamoDB, RDS, Terraform |
-| **UniLabs** | DeFi web app with wallet flows and on-chain reads | Next.js, Solidity, Ethers.js |
+I'm a **Full Stack Developer** based in **Lahore, Pakistan**. I build and ship real products — from the React/Next.js UI to the Node.js API, database, and AWS deploy.
+
+For the last **3+ years** I've worked with startups and product teams on MERN apps, serverless backends, and blockchain integrations. I care about clean APIs, fast frontends, and code that still makes sense six months later.
+
+**Open to remote full-time and contract roles.**
+
+🌐 Portfolio: [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)  
+💼 LinkedIn: [alihamza-fullstack-developer](https://www.linkedin.com/in/alihamza-fullstack-developer)  
+✉️ Email: [hamzasarwer9@gmail.com](mailto:hamzasarwer9@gmail.com)
+
+---
+
+## What I work on
+
+| Focus | What that looks like in practice |
+| --- | --- |
+| **Full stack apps** | Next.js / React frontends wired to Node.js REST APIs |
+| **Cloud & serverless** | AWS Lambda, API Gateway, DynamoDB, RDS, Terraform |
+| **Data & workers** | MongoDB, PostgreSQL, Redis, BullMQ / background jobs |
+| **Web3** | Wallet flows, Solidity integrations, blockchain indexing |
+
+---
+
+## Featured projects
+
+| Project | Outcome | Stack |
+| --- | --- | --- |
+| **[Portfolio](https://github.com/alihamzaio/portfolio)** | Personal site with SEO, CMS, and analytics — [live demo](https://alihamza-fawn.vercel.app/) | Next.js, TypeScript, Tailwind |
+| **Verana Indexer** | Blockchain crawler/indexer for 10k+ blocks; ~90% fewer direct RPC reads | Node.js, Moleculer, BullMQ, PostgreSQL, Redis |
+| **HealOps** | Multi-tenant healthcare + e-commerce platform on AWS serverless | Lambda, DynamoDB, RDS, Terraform |
+| **UniLabs** | DeFi web app with wallet connect and on-chain reads | Next.js, Solidity, Ethers.js |
 | **Senzi** | Dropshipping platform, 5k+ SKUs, supplier API automation | Next.js, Node.js, MongoDB |
-| **Portfolio** | Personal site with SEO, admin CMS, analytics | Next.js 16, TypeScript, Tailwind |
 
-Live portfolio: [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)
+More detail and case studies: **[alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)**
 
 ---
 
 ## Tech stack
 
-**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS · Redux  
-**Backend:** Node.js · Express.js · REST APIs · GraphQL · WebSockets  
-**Data:** MongoDB · PostgreSQL · Redis  
-**Cloud:** AWS (Lambda, API Gateway, DynamoDB, RDS) · Docker · Terraform · CI/CD  
-**Web3:** Solidity · Ethers.js · Blockchain indexing
+```text
+Frontend   React.js · Next.js · TypeScript · Tailwind CSS · Redux
+Backend    Node.js · Express.js · REST APIs · GraphQL · WebSockets
+Data       MongoDB · PostgreSQL · Redis
+Cloud      AWS (Lambda, API Gateway, DynamoDB, RDS) · Docker · Terraform · CI/CD
+Web3       Solidity · Ethers.js · Blockchain indexing
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,redis,aws,docker,terraform,graphql,tailwind,redux" alt="Skill icons: React Next.js TypeScript Node Express MongoDB PostgreSQL Redis AWS Docker Terraform GraphQL Tailwind Redux" />
+</p>
 
 ---
 
-## Links
+## How I like to work
 
-- Portfolio: https://alihamza-fawn.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/alihamza-fullstack-developer
-- Email: hamzasarwer9@gmail.com
+- Ship end-to-end: design → API → deploy → monitor  
+- Prefer boring, reliable architecture over flashy complexity  
+- Write APIs and UI that other developers can extend without a archaeology dig  
+- Keep performance and SEO in mind from day one (especially on Next.js)
 
 ---
 
-Thanks for visiting — feel free to reach out about roles or projects.
+## Let's talk
+
+If you're hiring a **Full Stack Developer** (MERN / Next.js / AWS / Web3) for a remote team, or you need help shipping a product — reach out.
+
+- 📬 [hamzasarwer9@gmail.com](mailto:hamzasarwer9@gmail.com)
+- 🔗 [Portfolio](https://alihamza-fawn.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alihamza-fullstack-developer)
+
+<div align="center">
+
+**Thanks for stopping by.** Star the [portfolio repo](https://github.com/alihamzaio/portfolio) if it helped — or just say hi.
+
+`Ali Hamza · Full Stack Developer · Lahore · Open to work`
+
+</div>
