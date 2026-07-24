@@ -10,15 +10,18 @@ Open to remote full-time and contract roles.
   <img src="https://raw.githubusercontent.com/alihamzaio/alihamzaio/main/assets/dev-terminal.png" alt="Ali Hamza Full Stack Developer terminal" width="860" />
 </p>
 
-## Projects
+## What I build
 
-| Project | What I built | Stack |
+| Area | How I approach it | Stack |
 | --- | --- | --- |
-| [Portfolio](https://github.com/alihamzaio/portfolio) | My site with SEO, CMS, and analytics ([live](https://alihamza-fawn.vercel.app/)) | Next.js, TypeScript, Tailwind |
-| Verana Indexer | Blockchain crawler for 10k+ blocks, fewer direct RPC reads | Node.js, Moleculer, BullMQ, PostgreSQL, Redis |
-| HealOps | Healthcare and e-commerce on AWS serverless | Lambda, DynamoDB, RDS, Terraform |
-| UniLabs | DeFi app with wallet connect and on-chain reads | Next.js, Solidity, Ethers.js |
-| Senzi | Dropshipping platform, 5k+ SKUs, supplier APIs | Next.js, Node.js, MongoDB |
+| Full stack web apps | Frontend + API + deploy as one product | Next.js, React, Node.js, TypeScript |
+| REST APIs and workers | Auth, CRUD, queues, and background jobs | Express, BullMQ, Redis, MongoDB, PostgreSQL |
+| AWS serverless | Multi-tenant backends with infra as code | Lambda, API Gateway, DynamoDB, RDS, Terraform |
+| Blockchain indexing | Crawl blocks, cut down direct RPC load | Node.js, Moleculer, PostgreSQL, Redis, Docker |
+| DeFi / wallet apps | Wallet connect, on-chain reads, Solidity hooks | Next.js, Ethers.js, Solidity |
+| Commerce platforms | Catalogs, supplier sync, order flows at scale | Next.js, Node.js, MongoDB |
+
+Live work and case studies: [alihamza-fawn.vercel.app](https://alihamza-fawn.vercel.app/)
 
 ## Stack
 
